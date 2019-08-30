@@ -1,0 +1,35 @@
+Motivation:
+ Predicting the stock price at a given time and analyzing increase and decrease in it's index is always a matter of interest for various companies and business analyst.There by not just predicting the stock index randomly it's always better to have an accurate prediction for the result.We see a regular increase and decrease in the stock market so there must be a pattern that we could learn for beating other traders and have a close prediction.
+ Benefits:
+   1.We could beat other traders with business degree by having a accurate(or close) prediction.
+   
+   2.Having a accurate model will incur us less loss in the market.
+
+  Idea(Overview):
+    For earning good amount of profit we will train our model on training data.The training data will consist of stock data of a company(like amazon stock data or Apple stock data) and model will learn various patterns or relationship between increase and decrease of the training data and then it will  give prediction on 
+    test data.In the dataset about 80% of the data will be the training data and rest 20% will be test data.We can use different strategies for training our model but best would be if it gives visual as well as qualitative outputs.
+    Following are some well known ways that can be used to meet our objective....
+      
+      A.stocker in python:  stocker is a python based tool for stock analysis and prediction which gives visual results.The good thing about using stocker is it's quite easy to use.
+
+      B.Support vector regression: 
+        Support vector machiene is a powerfool tool for predicting the increase and decrease in particular stock's price.
+     C.Tensor flow can also be used in predicting the stock's increase and decrease.
+     
+ Requirements:
+  stoker tool,
+  scikit library,
+  pycharm,
+ Dataset:
+  Last 20 years stocks data of any big company like Apple inc. or amazon or yahoo can be collected from an trusted online resource and these data can be  used for training our model.
+
+Algorithm and Mathamtics used:
+  
+   Algorithm that we are going to use depends upon which  strategy we are going to use.
+
+   The mathamatics that we would face in stock trading is statistical analysis and varios rules of probability.
+ 
+ Result :
+  Our model will depict the prise of the stock  based on its training.Its accuracy depends whether the predicted prise of the stock lies within confidence level or not(roughly we take confidece level to be 80%).
+ 
+
