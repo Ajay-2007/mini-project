@@ -45,7 +45,7 @@
 
     Technology
         - Python
-        - IBM NLP API
+        - IBM Watson NLP API
         - NLTK library for Natural Language Processing
         - D3.js for Data Visualization
 
