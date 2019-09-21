@@ -1,8 +1,10 @@
-question format
+question format taken from this [book](https://drive.google.com/file/d/1xxmZhGVYPtLwNMqKH4o8dIynPDlmB-Wk/view?usp=sharing)
 EXAMPLE 1-11 Density, Mass, Volume
 A 47.3-mL sample of ethyl alcohol (ethanol) has a mass of 37.32 g. What is its density?
 
-question is start with EXAMPLE and ending with "?, ."
+here the line just after the EXAMPLE is showing the labels from which topic this questions is from.
+we can add this label to the the particular question if we want.
+question is starting with EXAMPLE and ending with "?, ."
 
 What should be regular expression for this.
   pattern = "^EXAMPLE.*.\[.?]$" 
