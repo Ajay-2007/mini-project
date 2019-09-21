@@ -1,4 +1,4 @@
-question format taken from this [book](https://drive.google.com/file/d/1xxmZhGVYPtLwNMqKH4o8dIynPDlmB-Wk/view?usp=sharing)
+question format taken from this [book](https://drive.google.com/file/d/1xxmZhGVYPtLwNMqKH4o8dIynPDlmB-Wk/view?usp=sharing)<br>
 EXAMPLE 1-11 Density, Mass, Volume
 A 47.3-mL sample of ethyl alcohol (ethanol) has a mass of 37.32 g. What is its density?
 
