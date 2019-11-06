@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>781</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTabWidget" name="tabWidget">
+    <property name="geometry">
+     <rect>
+      <x>-4</x>
+      <y>-1</y>
+      <width>771</width>
+      <height>581</height>
+     </rect>
+    </property>
+    <property name="currentIndex">
+     <number>0</number>
+    </property>
+    <widget class="QWidget" name="tab">
+     <attribute name="title">
+      <string>Physics</string>
+     </attribute>
+     <widget class="QGroupBox" name="groupBox">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>751</width>
+        <height>561</height>
+       </rect>
+      </property>
+      <property name="title">
+       <string/>
+      </property>
+      <widget class="QLabel" name="label">
+       <property name="geometry">
+        <rect>
+         <x>330</x>
+         <y>10</y>
+         <width>161</width>
+         <height>31</height>
+        </rect>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="text">
+        <string>JEE Mains Physics</string>
+       </property>
+      </widget>
+      <widget class="QPlainTextEdit" name="plainTextEdit">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>40</y>
+         <width>751</width>
+         <height>511</height>
+        </rect>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>13</pointsize>
+        </font>
+       </property>
+       <property name="plainText">
+        <string>
+1. The density of a material in the shape of a cube is determined by measuring three sides of the cube and its mass. If the relative errors in measuring the mass and length are respectively 1.5% and 1%, the maximum error in determining the density is :
+(1) 2.5%
+(2) 3.5%
+(3) 4.5%
+(4) 6%
+
+2. Two masses m1=5 kg and m2=10 kg,connected by an inextensible string over africtionless pulley, are moving as shownin the figure. The coefficient of friction ofhorizontal surface is 0.15. The minimumweight m that should be put on top of m2to stop the motion is :
+(1) 18.3 kg
+(2) 27.3 kg
+(3) 43.3 kg
+(4) 10.3 k
+
+3. Two batteries with e.m.f. 12 V and 13 V are connected in parallel across a load resistor of 10 Ω. The internal resistances of the two batteries are 1 Ω and 2 Ω respectively. The voltage across the load lies between :
+(1) 11.6 V and 11.7 V
+(2) 11.5 V and 11.6 V
+(3) 11.4 V and 11.5 V
+(4) 11.7 V and 11.8 V
+</string>
+       </property>
+      </widget>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_3">
+     <attribute name="title">
+      <string>Chemistry</string>
+     </attribute>
+     <widget class="QGroupBox" name="groupBox_2">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>751</width>
+        <height>561</height>
+       </rect>
+      </property>
+      <property name="title">
+       <string/>
+      </property>
+      <widget class="QLabel" name="label_2">
+       <property name="geometry">
+        <rect>
+         <x>310</x>
+         <y>10</y>
+         <width>181</width>
+         <height>31</height>
+        </rect>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="text">
+        <string>JEE Mains Chemistry</string>
+       </property>
+      </widget>
+      <widget class="QPlainTextEdit" name="plainTextEdit_2">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>40</y>
+         <width>771</width>
+         <height>521</height>
+        </rect>
+       </property>
+       <property name="plainText">
+        <string>
+1. The density of a material in the shape of a cube is determined by measuring three sides of the cube and its mass. If the relative errors in measuring the mass and length are respectively 1.5% and 1%, the maximum error in determining the density is :
+(1) 2.5%
+(2) 3.5%
+(3) 4.5%
+(4) 6%
+
+2. Two masses m1=5 kg and m2=10 kg,connected by an inextensible string over africtionless pulley, are moving as shownin the figure. The coefficient of friction ofhorizontal surface is 0.15. The minimumweight m that should be put on top of m2to stop the motion is :
+(1) 18.3 kg
+(2) 27.3 kg
+(3) 43.3 kg
+(4) 10.3 k
+
+3. Two batteries with e.m.f. 12 V and 13 V are connected in parallel across a load resistor of 10 Ω. The internal resistances of the two batteries are 1 Ω and 2 Ω respectively. The voltage across the load lies between :
+(1) 11.6 V and 11.7 V
+(2) 11.5 V and 11.6 V
+(3) 11.4 V and 11.5 V
+(4) 11.7 V and 11.8 V
+</string>
+       </property>
+      </widget>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_2">
+     <attribute name="title">
+      <string>Mathematics</string>
+     </attribute>
+     <widget class="QGroupBox" name="groupBox_3">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>751</width>
+        <height>561</height>
+       </rect>
+      </property>
+      <property name="title">
+       <string/>
+      </property>
+      <widget class="QLabel" name="label_3">
+       <property name="geometry">
+        <rect>
+         <x>290</x>
+         <y>10</y>
+         <width>201</width>
+         <height>31</height>
+        </rect>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="text">
+        <string>JEE Mains Mathematics</string>
+       </property>
+      </widget>
+      <widget class="QPlainTextEdit" name="plainTextEdit_3">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>40</y>
+         <width>761</width>
+         <height>511</height>
+        </rect>
+       </property>
+       <property name="plainText">
+        <string>
+1. The density of a material in the shape of a cube is determined by measuring three sides of the cube and its mass. If the relative errors in measuring the mass and length are respectively 1.5% and 1%, the maximum error in determining the density is :
+(1) 2.5%
+(2) 3.5%
+(3) 4.5%
+(4) 6%
+
+2. Two masses m1=5 kg and m2=10 kg,connected by an inextensible string over africtionless pulley, are moving as shownin the figure. The coefficient of friction ofhorizontal surface is 0.15. The minimumweight m that should be put on top of m2to stop the motion is :
+(1) 18.3 kg
+(2) 27.3 kg
+(3) 43.3 kg
+(4) 10.3 k
+
+3. Two batteries with e.m.f. 12 V and 13 V are connected in parallel across a load resistor of 10 Ω. The internal resistances of the two batteries are 1 Ω and 2 Ω respectively. The voltage across the load lies between :
+(1) 11.6 V and 11.7 V
+(2) 11.5 V and 11.6 V
+(3) 11.4 V and 11.5 V
+(4) 11.7 V and 11.8 V
+</string>
+       </property>
+      </widget>
+     </widget>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
